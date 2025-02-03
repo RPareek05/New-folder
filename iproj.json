@@ -1,0 +1,9 @@
+{
+  "description": "Demo Project for the Devops",
+  "preUsrlibl": [
+    "labserver"
+  ],
+  "curlib": "&CURLIB",
+  "buildCommand": "/qopensys/pkgs/bin/makei build",
+  "compileCommand": "/qopensys/pkgs/bin/makei compile -f {filename}"
+}

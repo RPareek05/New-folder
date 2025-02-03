@@ -1,0 +1,3 @@
+pgm
+DCL VAR(&t1) TYPE(*CHAR) LEN(10) VALUE('RAHUL')
+endpgm
